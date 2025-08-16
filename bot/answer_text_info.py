@@ -1,7 +1,7 @@
 HANDLERS_ANSWER = {
     'contact_with_button': ['Оберіть будь-який зручний шлях:',
                             'Зателефонуйте: +380 (44) 593-07-74',
-                            'Напишіть: info@wacom.kiev.ua',
+                            'Напишіть: info@wacom.in.ua',
                             'Instagram: @wacomukraine',
                             'Facebook: wacom.ua'],
 
@@ -23,9 +23,9 @@ HANDLERS_ANSWER = {
                               'https://docs.google.com/forms/d/e/1FAIpQLSfgjOKjDna'
                               '-xgvUGIkNSAzI6jAvYMPwSJLZjOzncq3pAcId_w/viewform' '\n'],
 
-    'partnership': ['З питань партнерства та співпраці звертайтеся за адресою  info@wacom.kiev.ua'],
+    'partnership': ['З питань партнерства та співпраці звертайтеся за адресою  info@wacom.in.ua'],
 
-    'other_questions': ['Щоб отримати інформацію з інших питань, напишіть нам на адресу info@wacom.kiev.ua'],
+    'other_questions': ['Щоб отримати інформацію з інших питань, напишіть нам на адресу info@wacom.in.ua'],
 
     'greetings_text': ['Команда Wacom Ukraine рада вас вітати в цьому чаті😉',
                        'Тут ви отримаєте миттєві відповіді на питання, що вас цікавлять.',
