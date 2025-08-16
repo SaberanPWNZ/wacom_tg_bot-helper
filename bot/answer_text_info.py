@@ -7,7 +7,7 @@ HANDLERS_ANSWER = {
 
     'service_button': ['Якщо виникли проблеми з драйверами або пристроєм, зв’яжіться з нашим сервісним інженером:',
                        '+380 (44) 593-07-74',
-                       'support@wacom.kiev.ua'],
+                       'support@wacom.in.ua'],
 
     'tablet_register_button': ['Існує два типа реєстраціі пристроїв Wacom:' '\n',
                                '1. На сайті https://wacom.in.ua/support/register/  (забезпечить право на безкоштовне '
