@@ -17,7 +17,7 @@ async def start_handler(message: Message):
     answer = TelegramBotAnswer()
     logo_capture = FSInputFile('bot/media/Wacom-logo.jpg')
     user_name = message.from_user.first_name
-    await message.answer(f"Привіт, {user_name if user_name else "Друже"}", reply_markup=keyboard)
+    await message.answer(f"Привіт, {user_name if user_name else 'Друже'}", reply_markup=keyboard)
 
     await message.answer_photo(photo=logo_capture)
     await message.answer(text=answer.split_text_for_tg_answer(answer_text=answer.GREETINGS_TEXT))
